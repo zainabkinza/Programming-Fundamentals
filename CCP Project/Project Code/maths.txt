@@ -1,0 +1,80 @@
+01- If f(x) = 2x² + 3x + 1, what is f(2)?
+11
+15
+14
+13
+B
+Hint: Substitute x = 2 into the function and simplify.
+---
+02- Find the derivative of f(x) = 3x² + 5x² + 2x + 7.
+9x² + 10x + 2
+6x² + 5x + 2
+9x² + 5x + 2
+3x² + 5x + 2
+C
+Hint: Differentiate each term separately using power rule.
+---
+03- Evaluate ∫(2x) dx.
+2x²
+x² + C
+x² + 2
+x² + C
+B
+Hint: Integral of x^n = x^(n+1)/(n+1) + C.
+---
+04- If A = [[1, 2], [3, 4]], what is det(A)?
+10
+0
+-2
+2
+C
+Hint: Determinant = ad - bc.
+---
+05- What is the value of sin²(x) + cos²(x)?
+0
+1
+sin(2x)
+2
+B
+Hint: This is a basic trigonometric identity.
+---
+06- If log₃(81) = x, find x.
+4
+3
+2
+9
+A
+Hint: 81 = 3^4.
+---
+07- If the probability of an event A is 0.4 and event B is 0.5, and they are independent, find P(A ∩ B).
+0.2
+0.9
+0.45
+0.25
+C
+Hint: For independent events, multiply their probabilities.
+---
+08- Find the limit: lim(x→0) (sin x / x).
+0
+1
+Infinity
+Does not exist
+B
+Hint: It's a standard trigonometric limit.
+---
+09- The eigenvalues of matrix [[2, 0], [0, 5]] are:
+7 and 0
+2 and 5
+5 and -2
+0 and 5
+B
+Hint: For diagonal matrices, eigenvalues are diagonal entries.
+---
+10- If f(x) = e^x, what is d²f/dx²?
+e^x
+0
+x² e^x
+e^x + x
+A
+Hint: Derivative of e^x is e^x; second derivative is the same.
+---

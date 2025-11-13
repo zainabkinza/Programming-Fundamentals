@@ -1,0 +1,80 @@
+Q1. What is the largest organ in the human body?
+Heart
+Liver
+Brain
+Skin
+D
+Hint: It covers your entire body and protects you from the outside world.
+---
+Q2. Who was the first person to walk on the Moon?
+Buzz Aldrin
+Neil Armstrong
+Yuri Gagarin
+Michael Collins
+B
+Hint: He famously said "one small step for man, one giant leap for mankind" in 1969.
+---
+Q3. What is the hardest natural substance on Earth?
+Diamond
+Steel
+Titanium
+Graphene
+A
+Hint: It's a form of carbon and rates 10 on the Mohs hardness scale.
+---
+Q4. Which gas do plants absorb from the atmosphere during photosynthesis?
+Oxygen
+Nitrogen
+Carbon dioxide
+Hydrogen
+C
+Hint: Humans and animals exhale this gas.
+---
+Q5. What is the currency of Japan?
+Yuan
+Yen
+Won
+Ringgit
+B
+Hint: Its symbol is ¥.
+---
+Q6. Mount Everest is located in which mountain range?
+Alps
+Andes
+Himalayas
+Rockies
+C
+Hint: This mountain range stretches across several Asian countries including Nepal and Tibet.
+---
+Q7. Who developed the theory of relativity?
+Isaac Newton
+Albert Einstein
+Stephen Hawking
+Niels Bohr
+B
+Hint: This German-born physicist's equation E=mc² is world-famous.
+---
+Q8. How many bones are in the adult human body?
+186
+206
+226
+246
+B
+Hint: Babies are born with more bones that fuse together as they grow.
+---
+Q9. What is the longest river in the world?
+Amazon River
+Nile River
+Yangtze River
+Mississippi River
+B
+Hint: It flows through northeastern Africa and is approximately 6,650 km long.
+---
+Q10. In which year did the Titanic sink?
+1910
+1916
+1918
+1912
+D
+Hint: It happened on its maiden voyage after hitting an iceberg in the North Atlantic.
+---
